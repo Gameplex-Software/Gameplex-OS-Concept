@@ -9,3 +9,7 @@ We intend to find out with
  
 # Gameplex OS
 ### The future of UI technology.
+
+
+## MOCK-UP
+![untitled](https://user-images.githubusercontent.com/34868944/148694194-0248de0b-d798-4003-97f9-a5104f899f65.png)
